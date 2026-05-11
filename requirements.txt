@@ -1,5 +1,5 @@
 streamlit
-crewai==0.30.11
+crewai
 langchain
 openai
-tiktoken>=0.7.0
+
