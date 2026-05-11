@@ -1,4 +1,5 @@
 
-Streamlit
-CrewAI
+ streamlit groq
+crewai==0.30.11
+pydantic==2.7.1
 litellm
