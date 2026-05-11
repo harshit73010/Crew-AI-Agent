@@ -5,7 +5,7 @@ import streamlit as st
 from crewai import Agent, Task, Crew, LLM
 
 # API KEY
-os.environ["GROQ_API_KEY"] = "XXXXXXXXXXXXXXXXXXXXXXXXX"
+os.environ["GROQ_API_KEY"] = api_key
 
 # LLM
 llm = LLM(
