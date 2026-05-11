@@ -1,4 +1,4 @@
-Python
+
 Streamlit
 CrewAI
 litellm
