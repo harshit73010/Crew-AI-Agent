@@ -1,5 +1,5 @@
-streamlit==1.45.1
-crewai==0.121.1
-groq==0.25.0
-chromadb==0.5.23
+streamlit
+crewai
+groq
+chromadb
 pysqlite3-binary
